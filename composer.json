@@ -1,19 +1,17 @@
 {
-  "name": "nwidart/laravel-modules",
+  "name": "jaberwiki/laravel-module",
   "description": "Laravel Module management",
   "keywords": [
     "modules",
     "laravel",
-    "nwidart",
-    "module",
-    "rad"
+    "module"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "n.widart@gmail.com",
-      "homepage": "https://nicolaswidart.com",
+      "name": "Mohammad Jaber",
+      "email": "jaberphpdev@gmail.com",
+      "homepage": "https://github.com/JaberWiki",
       "role": "Developer"
     }
   ],
